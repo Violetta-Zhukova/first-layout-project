@@ -7,7 +7,8 @@
 - Семантическая HTML-разметка
 - CSS Flexbox и Grid системы
 
-<img width="400" alt="image" src="./images/landing-1.png"> <img width="400" alt="image" src="./images/landing-2.png">
+<img width="400" alt="image" src="./images/landing-1.png"> 
+<img width="400" alt="image" src="./images/landing-2.png">
 
 ## Стек
 
